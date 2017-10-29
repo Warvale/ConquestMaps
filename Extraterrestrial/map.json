@@ -1,4 +1,10 @@
 {
 "name":"Extraterrestrial",
 "author":"Warvale"
+"blueCoreX":105,
+"blueCoreY":75,
+"blueCoreZ":33,
+"redCoreX":-68
+"redCoreY":75
+"redCoreZ"33
 }
