@@ -1,4 +1,10 @@
 {
 "name":"RedwoodForest",
-"author":"Warvale"
+"author":"Warvale",
+"blueCoreX":107,
+"blueCoreY":17,
+"blueCoreZ":96,
+"redCoreX":-85,
+"redCoreY":17,
+"redCoreZ":-74
 }
