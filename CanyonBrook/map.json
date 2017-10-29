@@ -1,4 +1,11 @@
 {
 "name":"CanyonBrook",
-"author":"Warvale"
+"author":"Warvale",
+"redCore"X:90,
+"redCoreY":69,
+"redCoreZ":91,
+"blueCoreX":119,
+"blueCoreY":69,
+"blueCoreZ":-118
 }
+
